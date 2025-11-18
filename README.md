@@ -1,39 +1,39 @@
-📚 Web Scraping Project
+# 📚 Web Scraping Project
 
-This project demonstrates how to scrape, clean, and analyze book data from the Books to Scrape website using Python. The dataset includes 1000 books extracted across 50 pages, with key attributes such as Title, Price, Stock Availability, Ratings, and Product URL.
+### This project demonstrates how to scrape, clean, and analyze book data from the Books to Scrape website using Python. The dataset includes 1000 books extracted across 50 pages, with key attributes such as Title, Price, Stock Availability, Ratings, and Product URL.
 
-🔧 Tools & Libraries
+## 🔧 Tools & Libraries
 
-Python
+### Python
 
-BeautifulSoup
+### BeautifulSoup
 
-Requests
+### Requests
 
-Pandas
+### Pandas
 
-Matplotlib
+### Matplotlib
 
-📊 What I Did
+## 📊 What I Did
 
-Scraped book data using BeautifulSoup & Requests
+### Scraped book data using BeautifulSoup & Requests
 
-Cleaned and transformed the dataset (numeric prices & ratings)
+### Cleaned and transformed the dataset (numeric prices & ratings)
 
-Created visualizations:
+## Created visualizations:
 
-Price distribution
+### Price distribution
 
-Rating distribution
+### Rating distribution
 
-Price vs rating scatter plot
+### Price vs rating scatter plot
 
-Exported final dataset as books_scraped.csv
+### Exported final dataset as books_scraped.csv
 
-🔍 Key Insights
+## 🔍 Key Insights
 
-Most books are priced between £20–£60
+### Most books are priced between £20–£60
 
-Ratings skew heavily toward 4 and 5 stars
+### Ratings skew heavily toward 4 and 5 stars
 
-No clear correlation between book price and rating
+### No clear correlation between book price and rating
